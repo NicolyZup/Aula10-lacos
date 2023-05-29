@@ -14,7 +14,7 @@ public class Exercicio6 {
         int numInformado = entrada.nextInt();
 
 
-        if(numInformado%2==1 && numInformado > 0){
+        if(numInformado%2==1){
             System.out.println("O número " + numInformado + " é um número primo.");
         } else {
             System.out.println("O número " + numInformado + " não é um número primo.");

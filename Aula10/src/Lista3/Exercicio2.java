@@ -11,7 +11,7 @@ public class Exercicio2 {
         System.out.println("Verifique aqui a média dos números informados.");
         System.out.println("Informe a quantidade de números serão utilizados:");
         int numeroMedia = entrada.nextInt();
-        int contador = 0;
+        int contador;
         double notas = 0;
 
         for(contador=0;contador <numeroMedia; contador++){
