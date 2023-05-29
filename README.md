@@ -2,7 +2,7 @@
 Repositório criado para entrega das listas de exercícios da aula 10 do projeto Catalisa.
 
 ## Exercícios:
-Os exercícios foram separados em lista, sendo eles:
+Os exercícios foram separados em listas, sendo eles:
 
 1ª lista: exercícios de estrutura de repetição
 
